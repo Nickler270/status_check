@@ -1,4 +1,5 @@
-# status code checker
+#status code checker
+#urls in urls.csv
 import requests
 import csv
 import time
